@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/midterm_project/static/css/main.073c9b0a.css",
+    "main.js": "/midterm_project/static/js/main.1224c4d1.js",
+    "static/js/787.62449090.chunk.js": "/midterm_project/static/js/787.62449090.chunk.js",
+    "static/media/logo.svg": "/midterm_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/midterm_project/index.html",
+    "main.073c9b0a.css.map": "/midterm_project/static/css/main.073c9b0a.css.map",
+    "main.1224c4d1.js.map": "/midterm_project/static/js/main.1224c4d1.js.map",
+    "787.62449090.chunk.js.map": "/midterm_project/static/js/787.62449090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1224c4d1.js"
+  ]
+}
